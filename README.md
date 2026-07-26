@@ -5,9 +5,6 @@ Acesso: [https://www.theodinproject.com](https://www.theodinproject.com)
 ### Project: Bubble Sort
 
 Objective: ***Build a method #bubble_sort that takes an array and returns a sorted array. It must use the bubble sort methodology***
-Example:
-![]([https://cdn.statically.io/gh/TheOdinProject/curriculum/284f0cdc998be7e4751e29e8458323ad5d320303/ruby_programming/basic_ruby_projects/bubble_sort/img/00.gif](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif))
-
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
 Example:
